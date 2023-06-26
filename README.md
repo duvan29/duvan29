@@ -14,6 +14,21 @@ Durante mi experiencia en el bootcamp de Henry, tuve la oportunidad de trabajar 
 - Herramientas: Git, Figma, Illustrator, Photoshop
 - Metodologías: Agile (Scrum)
 
+## Tools 🔧
+
+- ![HTML](https://example.com/html.png) HTML
+- ![CSS](https://example.com/css.png) CSS
+- ![SASS](https://example.com/sass.png) SASS
+- ![JavaScript](https://example.com/javascript.png) JavaScript
+- ![ReactJS](https://example.com/react.png) ReactJS
+- ![Redux](https://example.com/redux.png) Redux
+- ![PostgreSQL](https://example.com/postgresql.png) PostgreSQL
+- ![ExpressJS](https://example.com/express.png) ExpressJS
+- ![Node.js](https://example.com/nodejs.png) Node.js
+- ![Git](https://example.com/git.png) Git
+- ![Visual Studio Code](https://example.com/vscode.png) Visual Studio Code
+
+
 ## ¡Conéctate conmigo! 📩
 Si estás interesado en colaborar en un proyecto emocionante o simplemente quieres discutir tecnología, ¡no dudes en contactarme! Estoy siempre abierto a nuevas oportunidades y a ampliar mi red de contactos. ¡Hablemos de código, innovación y construyamos cosas increíbles juntos! 🌟
 
