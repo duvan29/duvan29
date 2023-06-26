@@ -17,4 +17,11 @@ Durante mi experiencia en el bootcamp de Henry, tuve la oportunidad de trabajar 
 ## ¡Conéctate conmigo! 📩
 Si estás interesado en colaborar en un proyecto emocionante o simplemente quieres discutir tecnología, ¡no dudes en contactarme! Estoy siempre abierto a nuevas oportunidades y a ampliar mi red de contactos. ¡Hablemos de código, innovación y construyamos cosas increíbles juntos! 🌟
 
+## Contáctame 📞
+Puedes encontrarme en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duvan-serrano)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](TU_GMAIL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](TU_WHATSAPP)
+
 ¡Gracias por visitar mi perfil! 😊✨
