@@ -16,17 +16,17 @@ Durante mi experiencia en el bootcamp de Henry, tuve la oportunidad de trabajar 
 
 ## Tools 🔧
 
-- <img src="ruta_de_la_imagen_html" alt="HTML" width="50"/> HTML
-- <img src="ruta_de_la_imagen_css" alt="CSS" width="50"/> CSS
-- <img src="ruta_de_la_imagen_sass" alt="SASS" width="50"/> SASS
-- <img src="ruta_de_la_imagen_js" alt="JavaScript" width="50"/> JavaScript
-- <img src="ruta_de_la_imagen_reactjs" alt="ReactJS" width="50"/> ReactJS
-- <img src="ruta_de_la_imagen_redux" alt="Redux" width="50"/> Redux
-- <img src="ruta_de_la_imagen_postgresql" alt="PostgreSQL" width="50"/> PostgreSQL
-- <img src="ruta_de_la_imagen_expressjs" alt="ExpressJS" width="50"/> ExpressJS
-- <img src="ruta_de_la_imagen_nodejs" alt="Node.js" width="50"/> Node.js
-- <img src="ruta_de_la_imagen_git" alt="Git" width="50"/> Git
-- <img src="ruta_de_la_imagen_vscode" alt="Visual Studio Code" width="50"/> Visual Studio Code
+- ![HTML](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) HTML
+- ![CSS](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) CSS
+- ![SASS](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) SASS
+- ![JavaScript](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) JavaScript
+- ![ReactJS](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) ReactJS
+- ![Redux](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) Redux
+- ![PostgreSQL](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) PostgreSQL
+- ![ExpressJS](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) ExpressJS
+- ![Node.js](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) Node.js
+- ![Git](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) Git
+- ![Visual Studio Code](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) Visual Studio Code
 
 
 ## ¡Conéctate conmigo! 📩
