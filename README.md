@@ -16,17 +16,19 @@ Durante mi experiencia en el bootcamp de Henry, tuve la oportunidad de trabajar 
 
 ## Tools 🔧
 
-- ![HTML](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png) HTML
-- ![CSS](https://user-images.githubusercontent.com/25181517/192158955-04c37dd7-2c8a-4d6b-846a-cf0b6e1d49f7.png) CSS
-- ![SASS](https://user-images.githubusercontent.com/25181517/192158957-70a71a9b-9149-4338-98c6-d0ce570b2fb2.png) SASS
-- ![JavaScript](https://user-images.githubusercontent.com/25181517/192158959-458d1579-dfc2-4e3d-a864-9928f2184d64.png) JavaScript
-- ![ReactJS](https://user-images.githubusercontent.com/25181517/192158960-3a9fd6a0-4a0f-407c-90b3-25d6fc11a007.png) ReactJS
-- ![Redux](https://user-images.githubusercontent.com/25181517/192158962-1f262d7b-478e-4a63-a5b6-97c2b87f787f.png) Redux
-- ![PostgreSQL](https://user-images.githubusercontent.com/25181517/192158963-548a43b7-d76a-4c8f-a5a6-0f522199a7d4.png) PostgreSQL
-- ![ExpressJS](https://user-images.githubusercontent.com/25181517/192158965-4be4c547-5b4b-4093-b154-0db550e11f63.png) ExpressJS
-- ![Node.js](https://user-images.githubusercontent.com/25181517/192158967-8c9eb0ab-ff7a-41d1-a084-7ae014c1072b.png) Node.js
-- ![Git](https://user-images.githubusercontent.com/25181517/192158970-07286aee-3e45-42f7-8ef9-80acda87cb55.png) Git
-- ![Visual Studio Code](https://user-images.githubusercontent.com/25181517/192158972-2d5b4a75-5b40-404c-a402-bb46ab3f5ebd.png) Visual Studio Code
+
+- HTML
+- CSS
+- SASS
+- JavaScript
+- ReactJS
+- Redux
+- PostgreSQL
+- ExpressJS
+- Node.js
+- Git
+- Visual Studio Code
+
 
 
 ## ¡Conéctate conmigo! 📩
