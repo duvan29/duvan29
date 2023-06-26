@@ -16,17 +16,17 @@ Durante mi experiencia en el bootcamp de Henry, tuve la oportunidad de trabajar 
 
 ## Tools 🔧
 
-- ![HTML](https://example.com/html.png) HTML
-- ![CSS](https://example.com/css.png) CSS
-- ![SASS](https://example.com/sass.png) SASS
-- ![JavaScript](https://example.com/javascript.png) JavaScript
-- ![ReactJS](https://example.com/react.png) ReactJS
-- ![Redux](https://example.com/redux.png) Redux
-- ![PostgreSQL](https://example.com/postgresql.png) PostgreSQL
-- ![ExpressJS](https://example.com/express.png) ExpressJS
-- ![Node.js](https://example.com/nodejs.png) Node.js
-- ![Git](https://example.com/git.png) Git
-- ![Visual Studio Code](https://example.com/vscode.png) Visual Studio Code
+- <img src="ruta_de_la_imagen_html" alt="HTML" width="50"/> HTML
+- <img src="ruta_de_la_imagen_css" alt="CSS" width="50"/> CSS
+- <img src="ruta_de_la_imagen_sass" alt="SASS" width="50"/> SASS
+- <img src="ruta_de_la_imagen_js" alt="JavaScript" width="50"/> JavaScript
+- <img src="ruta_de_la_imagen_reactjs" alt="ReactJS" width="50"/> ReactJS
+- <img src="ruta_de_la_imagen_redux" alt="Redux" width="50"/> Redux
+- <img src="ruta_de_la_imagen_postgresql" alt="PostgreSQL" width="50"/> PostgreSQL
+- <img src="ruta_de_la_imagen_expressjs" alt="ExpressJS" width="50"/> ExpressJS
+- <img src="ruta_de_la_imagen_nodejs" alt="Node.js" width="50"/> Node.js
+- <img src="ruta_de_la_imagen_git" alt="Git" width="50"/> Git
+- <img src="ruta_de_la_imagen_vscode" alt="Visual Studio Code" width="50"/> Visual Studio Code
 
 
 ## ¡Conéctate conmigo! 📩
